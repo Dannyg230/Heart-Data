@@ -1,2 +1,2 @@
 # Heart-Data
-This data goes through any variables of chances of a heart attack.
+This data goes through many variables of chances of a heart attack.
